@@ -15,11 +15,9 @@ Agora vai existir uma pasta lib com as biblitecas estaticas do googletest
 
 A estrutura dos projetos ficaram assim :
 
-$HOME/projetos/
-              /load_balance
-              /load_balance_test
-$HOME/programas/
-              /googletest
+$HOME/projetos/load_balance
+$HOME/projetos/load_balance_test
+$HOME/programas/googletest
                
 Mantendo essa estrutur deve-se conseguir compilar os projetos sem maiores problemas.
 
