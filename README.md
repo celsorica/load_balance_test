@@ -19,7 +19,7 @@ $HOME/projetos/
               /load_balance
               /load_balance_test
 $HOME/programas/
-               /googletest
+              /googletest
                
 Mantendo essa estrutur deve-se conseguir compilar os projetos sem maiores problemas.
 
